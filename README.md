@@ -9,7 +9,6 @@
     <td><Устройство/td>
      <td><Рабочая область/td>
   </tr>
-      <tbody>
   <tr>
    <td>
 1
@@ -81,7 +80,6 @@ Workarea: 1170px + 15px padding
 
    </td>
    </tr>
-   </tbody>
  </table>
 
 
