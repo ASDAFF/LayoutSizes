@@ -2,7 +2,11 @@
 Размеры рабочих областей и переломных точек для вёрстки при определенных размерах экрана
 
 № | Размер экрана | Устройство | Рабочая область
-
+<table>
+ <tr>
+  <td></td>
+  </tr>
+ </table>
 1. 320px - 479px - <b>Mobile</b> (Workarea: 100% + 10px padding)
 2. 480px - 767px – <b>Mobile M, Mobile L</b> (Workarea: 100% + 10px padding)
 3. 768px - 1023px – <b>Netbook, Tablet</b> (Workarea: 750px + 15px padding)
