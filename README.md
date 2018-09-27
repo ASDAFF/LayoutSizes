@@ -9,60 +9,61 @@
     <th><Устройство/th>
      <th><Рабочая область/th>
   </thead>
+      <tbody>
   <tr>
    <td>
-
+1
    </td>
    <td>
-
+320px - 479px
    </td>
    <td>
-
+ <b>Mobile</b> 
    </td>
    <td>
-
-   </td>
-   </tr>
-     <tr>
-   <td>
-
-   </td>
-   <td>
-
-   </td>
-   <td>
-
-   </td>
-   <td>
-
+Workarea: 100% + 10px padding
    </td>
    </tr>
      <tr>
    <td>
-
+2
    </td>
    <td>
-
+480px - 767px
    </td>
    <td>
-
+Mobile M, Mobile L
    </td>
    <td>
-
+Workarea: 100% + 10px padding
    </td>
    </tr>
      <tr>
    <td>
-
+3
    </td>
    <td>
-
+768px - 1023px
    </td>
    <td>
-
+<b>Netbook, Tablet</b>
    </td>
    <td>
-
+Workarea: 750px + 15px padding
+   </td>
+   </tr>
+     <tr>
+   <td>
+4
+   </td>
+   <td>
+1024px - 1199px
+   </td>
+   <td>
+<b>Netbook, Tablet</b>
+   </td>
+   <td>
+Workarea: 960px + 15px padding
    </td>
    </tr>
      <tr>
@@ -80,11 +81,10 @@ Workarea: 1170px + 15px padding
 
    </td>
    </tr>
+   </tbody>
  </table>
-1. 320px - 479px - <b>Mobile</b> (Workarea: 100% + 10px padding)
-2. 480px - 767px – <b>Mobile M, Mobile L</b> (Workarea: 100% + 10px padding)
-3. 768px - 1023px – <b>Netbook, Tablet</b> (Workarea: 750px + 15px padding)
-4. 1024px - 1199px - <b>Netbook, Tablet</b> (Workarea: 960px + 15px padding)
+
+
 
  
  1ый и 2ой размер в основном объединяется.<br>
