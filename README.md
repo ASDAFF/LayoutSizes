@@ -5,9 +5,9 @@
 <table>
  <thead>
     <th>#</th>
-    <th><Размер экрана /th>
-    <th><Устройство/th>
-     <th><Рабочая область/th>
+    <th>Размер экрана </th>
+    <th>Устройство</th>
+     <th>Рабочая область</th>
   </thead>
   <tr>
    <td>
@@ -88,8 +88,57 @@ Workarea: 1170px + 15px padding
  1ый и 2ой размер в основном объединяется.<br>
  3ий и 4ый размер тоже можно объеденить<br>
  Тогда получится:<br>
- 1, 2 – <b>Mobile</b> (320px-767px) (Workarea: 100% + 10px padding) <br>
- 3, 4 – <b>Tablet</b> (768px-1199px) (Workarea: 750px + 15px padding) <br>
- 5 – <b>Desktop</b> (больше 1200px) (Workarea: 1170px + 15px padding) <br>
+ 
+ <table>
+ <thead>
+    <th>#</th>
+    <th>Размер экрана </th>
+    <th>Устройство</th>
+     <th>Рабочая область</th>
+  </thead>
+  <tr>
+   <td>
+1
+   </td>
+   <td>
+320px - 767px
+   </td>
+   <td>
+ <b>Mobile</b> 
+   </td>
+   <td>
+Workarea: 100% + 10px padding
+   </td>
+   </tr>
+     <tr>
+   <td>
+2
+   </td>
+   <td>
+768px - 1199px
+   </td>
+   <td>
+<b>Tablet</b>
+   </td>
+   <td>
+Workarea: 750px + 15px padding
+   </td>
+   </tr>
+     <tr>
+   <td>
+3
+   </td>
+   <td>
+больше 1200px
+   </td>
+   <td>
+<b>Desktop</b>
+   </td>
+   <td>
+Workarea: 1170px + 15px padding
+   </td>
+   </tr>
+
+ </table>
  
  
